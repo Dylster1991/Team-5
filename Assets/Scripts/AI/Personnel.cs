@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Personnel : MonoBehaviour
 {
+    // Lots more to come in here, obviously
+
     private StateMachine _stateMachine;
 
     private void Awake()
